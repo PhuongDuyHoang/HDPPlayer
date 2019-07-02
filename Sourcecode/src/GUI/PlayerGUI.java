@@ -103,7 +103,7 @@ public class PlayerGUI extends javax.swing.JFrame {
         setLayout(new BorderLayout());
         add(createMenuBar(), BorderLayout.NORTH);
         mainPanel = new JPanel();
-        mainL = new JLabel(new ImageIcon("images/1.jpg"));
+        mainL = new JLabel(new ImageIcon("iqmages/1.jpg"));
         background = "1";
         mainPanel.add(mainL);
 
