@@ -41,7 +41,7 @@ public class Author extends JDialog{
         aboutTP.setText("Họ và tên sinh viên: Hoàng Duy Phương "+"\n"+ "MSSV: 16520965");
         aboutTP.setBackground(Color.pink);
         aboutTP.setForeground(Color.RED);
-        TitledBorder titleBorder = new TitledBorder("Windows Media Player");
+        TitledBorder titleBorder = new TitledBorder("HDPPlayer");
         aboutTP.setBorder(titleBorder);
     
 
